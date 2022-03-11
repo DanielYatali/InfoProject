@@ -1,6 +1,7 @@
 <script>
 import { form, field } from 'svelte-forms';
 import { required } from 'svelte-forms/validators';
+import {fade} from 'svelte/transition';
 import { bind } from 'svelte/internal';
 
  const name = field('name', '', [required()], {
