@@ -1,4 +1,4 @@
-<script type="module">
+<script>
 import { form, field } from 'svelte-forms';
 import { required } from 'svelte-forms/validators';
 import { bind } from 'svelte/internal';
