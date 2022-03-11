@@ -1,5 +1,5 @@
 
-<script type="module">
+<script>
 
 import SignUpForm from "../components/signupForm.svelte";
 

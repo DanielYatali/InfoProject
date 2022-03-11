@@ -1,8 +1,6 @@
-
-<script type="module">
+<script>
 import { form, field } from 'svelte-forms';
-import { matchField, required } from 'svelte-forms/validators';
-import { bind } from 'svelte/internal';
+import { matchField, required} from 'svelte-forms/validators';
 
  const name = field('name', '', [required()], {
     validateOnChange: false
