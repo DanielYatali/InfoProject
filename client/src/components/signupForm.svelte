@@ -1,5 +1,5 @@
 
-<script>
+<script type="module">
 import { form, field } from 'svelte-forms';
 import { matchField, required } from 'svelte-forms/validators';
 import { bind } from 'svelte/internal';

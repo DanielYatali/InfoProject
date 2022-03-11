@@ -1,4 +1,4 @@
-<script>
+<script type="module">
 import Login from "../components/loginForm.svelte";
 
 </script>
