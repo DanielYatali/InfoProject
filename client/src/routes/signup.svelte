@@ -1,13 +1,10 @@
-
 <script>
-
-import SignUpForm from "../components/signupForm.svelte";
-
+	import SignUpForm from '../components/signupForm.svelte';
 </script>
+
 <div class="container">
-<SignUpForm/>
+	<SignUpForm />
 </div>
 
 <style>
-  
 </style>

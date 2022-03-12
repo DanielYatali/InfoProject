@@ -1,11 +1,10 @@
 <script>
-import Login from "../components/loginForm.svelte";
-
+	import Login from '../components/loginForm.svelte';
 </script>
+
 <div class="container">
-<Login/>
+	<Login />
 </div>
 
 <style>
-  
 </style>
